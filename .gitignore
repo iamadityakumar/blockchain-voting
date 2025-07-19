@@ -1,0 +1,23 @@
+# Node dependencies for all projects
+node_modules/
+package-lock.json
+
+# Truffle build artifacts
+build/
+
+# Vite build artifacts and cache
+dist/
+.vite/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Environment variables (secrets)
+.env
+.env.*
+secrets.json
+
+# IDE and editor files
+.vscode/
+.idea/
